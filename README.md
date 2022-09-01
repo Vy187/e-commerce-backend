@@ -17,6 +17,7 @@ This application is a prototypical back-end for an e-commerce application. In it
 
 ## Installation
 * npm i
+* Change .env.Example file to .env and insert your db user and password
 
 ## Server Startup
 * npm run watch
